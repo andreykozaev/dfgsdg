@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Салам Бæстæ");
 
+            Console.WriteLine("Давай бæстæ");
+
             Console.ReadKey();
         }
     }
