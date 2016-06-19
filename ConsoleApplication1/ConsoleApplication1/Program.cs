@@ -15,6 +15,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Давай бæстæ");
 
             Console.WriteLine("Первый1");
+            Console.WriteLine("Второй2");
 
             Console.ReadKey();
         }
